@@ -15,4 +15,4 @@ function slideToNextImage() {
   }
 }
 
-setInterval(slideToNextImage, 7000); // Change slide every 7 seconds
+setInterval(slideToNextImage, 5000); // Change slide every 7 seconds
